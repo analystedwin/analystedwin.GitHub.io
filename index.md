@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](/sample_project)
 <img src="images/MIT me avery smie profile.png?raw=true"/>
 Tolulope is the best
 
