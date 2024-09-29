@@ -4,13 +4,13 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/sample_project)
+#### [Webpage]([https://analystedwin.carrd.co/)])
 <img src="images/KJ34FiE.JPG?raw=true"/>
 OH....
 IO
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D]
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
