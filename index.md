@@ -16,7 +16,7 @@ For this project, I explored what Microsoft Excel presentation should entail. It
 
 ---
 #### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/linkedin-300x158.jpg?raw=true"/>]
 My final write up for Edwin Byrne's DoorDash project covering sales and demographic data. 
 
 
