@@ -5,8 +5,9 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/sample_project)
-<img src="images/MIT me avery smie profile.png?raw=true"/>
-Tolulope is the best
+<img src="images/KJ34FiE.JPG?raw=true"/>
+OH....
+IO
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
