@@ -4,20 +4,20 @@
 
 ### Learn About My Projects
 
-#### [Webpage]([https://analystedwin.carrd.co/)])
+#### [External Link Project](https://analystedwin.carrd.co/)
 <img src="images/KJ34FiE.JPG?raw=true"/>
 OH....
 IO
 
 ---
-#### [https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D]
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+#### [DoorDash]([https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D](https://www.linkedin.com/feed/update/urn:li:activity:7246209355589541889/))
+<img src="images/Red Simple 3D Food Delivery Order Instagram Post (1).png?raw=true"/>
+For this project, I explored what Microsoft Excel presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+My final write up for Edwin Byrne's DoorDash project covering sales and demographic data. 
 
 
 ---
