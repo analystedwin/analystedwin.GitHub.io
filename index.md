@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Edwin Analyst](https://analystedwin.carrd.co/)
+#### [Edwin Data Analyst](https://analystedwin.carrd.co/)
 <img src="images/KJ34FiE.JPG?raw=true"/>
 OH....
 IO
