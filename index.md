@@ -4,13 +4,13 @@
 
 ### Learn About My Projects
 
-#### [External Link Project](https://analystedwin.carrd.co/)
+#### [Edwin Analyst](https://analystedwin.carrd.co/)
 <img src="images/KJ34FiE.JPG?raw=true"/>
 OH....
 IO
 
 ---
-#### [DoorDash]([https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D](https://www.linkedin.com/feed/update/urn:li:activity:7246209355589541889/))
+#### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
 <img src="images/Red Simple 3D Food Delivery Order Instagram Post (1).png?raw=true"/>
 For this project, I explored what Microsoft Excel presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
