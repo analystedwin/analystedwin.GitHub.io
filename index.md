@@ -12,11 +12,24 @@ IO
 ---
 #### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
 <img src="images/Red Simple 3D Food Delivery Order Instagram Post (1).png?raw=true"/>
-For this project, I explored what Microsoft Excel presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+In this project, I examined the essential components of an effective Microsoft Excel presentation. Key focus areas include:
+
+Main Talking Points: Identifying the core messages that resonate with the audience and highlight key findings.
+
+Data Visualization: Utilizing charts and graphs to make complex data more accessible and engaging.
+
+Connecting Data to Business Value: Demonstrating how insights derived from the data can drive strategic decisions and improve outcomes.
+
+Storytelling with Data: Crafting a narrative that ties data points together, making it relatable and actionable.
+
+Best Practices for Presentation: Tips on layout, design, and delivery to ensure clarity and impact.
+
+By integrating these elements, the presentation not only informs but also empowers stakeholders to make data-driven decisions that enhance business performance.
+
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/posts/artsbyrne_analyzing-education-data-dashboard-activity-7248824857579134976-PLPO?utm_source=share&utm_medium=member_desktop)
+[<img src="images/Blue Yellow scribbles Back To School Instagram Story.png?raw=true"/>](https://www.linkedin.com/posts/artsbyrne_analyzing-education-data-dashboard-activity-7248824857579134976-PLPO?utm_source=share&utm_medium=member_desktop)](https://www.linkedin.com/posts/artsbyrne_analyzing-education-data-dashboard-activity-7248824857579134976-PLPO?utm_source=share&utm_medium=member_desktop)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
