@@ -29,7 +29,7 @@ By integrating these elements, the presentation not only informs but also empowe
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/Blue Yellow scribbles Back To School Instagram Story.png?raw=true"/>] [(https://www.linkedin.com/posts/artsbyrne_analyzing-education-data-dashboard-activity-7248824857579134976-PLPO?utm_source=share&utm_medium=member_desktop)](https://www.linkedin.com/posts/artsbyrne_analyzing-education-data-dashboard-activity-7248824857579134976-PLPO?utm_source=share&utm_medium=member_desktop)>]
+<img src="images/Blue Yellow scribbles Back To School Instagram Story.png?raw=true"/>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
