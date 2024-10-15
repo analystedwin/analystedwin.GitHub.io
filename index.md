@@ -44,9 +44,9 @@ I was hired as a Data Analyst for a stockholder of Ethereum. This stockholder st
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Analying DoorDash Marting](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
+- [Evaluating School Success with Tableau](https://www.linkedin.com/posts/artsbyrne_analyzing-education-data-dashboard-activity-7248824857579134976-PLPO?utm_source=share&utm_medium=member_desktop)
+- [ETH stocks](https://github.com/users/analystedwin/projects/2))
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
