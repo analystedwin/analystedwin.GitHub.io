@@ -37,6 +37,7 @@ What are the top math schools in the state?
 ---
 
 #### [Ethereum](https://github.com/users/analystedwin/projects/2)
+<img src="images/Blue Yellow scribbles Back To School Instagram Story.png?raw=true"/>
 My project write up for Edwin Byrne's Ethereum project covering two years of data. 
 
 ---
