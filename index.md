@@ -36,7 +36,7 @@ What are the top math schools in the state?
 
 ---
 
-#### [Ethereum](test.md](https://github.com/users/analystedwin/projects/2)
+#### [Ethereum](https://github.com/users/analystedwin/projects/2)
 My project write up for Edwin Byrne's Ethereum project covering two years of data. 
 
 ---
