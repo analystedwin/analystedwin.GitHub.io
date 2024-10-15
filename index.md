@@ -11,7 +11,7 @@ IO
 
 ---
 #### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
-<img src="images/Red Simple 3D Food Delivery Order Instagram Post (1).png?raw=true"/> (https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=uLT1ayBYTH6K3CtJEtYOfQ%3D%3D)
+[Alt text](img src="images/Red Simple 3D Food Delivery Order Instagram Post (1).png?raw=true"/)](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
 
 Main Talking Points: Identifying the core messages that resonate with the audience and highlight key findings.
 
