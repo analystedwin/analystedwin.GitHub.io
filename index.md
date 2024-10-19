@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Edwin Data Analyst](https://analystedwin.carrd.co/)
-<img src="analystedwin.GitHub.io/edit/master/images/KJ34FiE.JPG?raw=true"/>
+<img src="images/KJ34FiE.JPG?raw=true"/>
 OH....
 IO
 
