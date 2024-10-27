@@ -50,7 +50,7 @@ A Journey Through World Banking Data: Insights from SQL. Analysis, I worked with
 ---
 
 #### [Hospital Data Analyzed with SQL](https://www.linkedin.com/pulse/journey-through-world-banking-data-insights-from-sql-edwin-byrne-lnatc/?trackingId=9cjXUDJ7RIOr%2B798%2F0vZqQ%3D%3D)
-<img src="images/Banking Analyist in SQL.png?raw=true"/>
+<img src="images/Hospital Data Analyzed with SQL.png?raw=true"/>
 Analyzed what affections hospital stay length in MySQL.
 Created a histogram using SQL.
 Real data from over 101,000 hospital patients.
