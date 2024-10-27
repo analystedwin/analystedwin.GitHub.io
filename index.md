@@ -47,6 +47,15 @@ I was hired as a Data Analyst for a stockholder of Ethereum. This stockholder st
 A Journey Through World Banking Data: Insights from SQL. Analysis, I worked with a dataset that the World Bank provides, which included extensive data on various country transactions and loans. The scope of this dataset was massive, numbering in the millions of rows, packed with information on borrower IDs and amounts due to the International Development Association (IDA)
 
 ---
+---
+
+#### [Hospital Data Analyzed with SQL](https://www.linkedin.com/pulse/journey-through-world-banking-data-insights-from-sql-edwin-byrne-lnatc/?trackingId=9cjXUDJ7RIOr%2B798%2F0vZqQ%3D%3D)
+<img src="images/Banking Analyist in SQL.png?raw=true"/>
+Analyzed what affections hospital stay length in MySQL.
+Created a histogram using SQL.
+Real data from over 101,000 hospital patients.
+
+---
 
 ### Category Name 2
 
