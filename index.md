@@ -6,10 +6,10 @@
 
 #### [Edwin Data Analyst](https://analystedwin.carrd.co/)
 <img src="images/KJ34FiE.JPG?raw=true"/>
-OH....
-IO
+OH....IO
 
 ---
+
 #### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
 <img src="images/Red Simple 3D Food Delivery Order Instagram Post (1).png?raw=true"/>
 
@@ -25,8 +25,8 @@ Best Practices for Presentation: Tips on layout, design, and delivery to ensure 
 
 By integrating these elements, the presentation not only informs but also empowers stakeholders to make data-driven decisions that enhance business performance.
 
-
 ---
+
 #### [Education Project](https://www.linkedin.com/posts/artsbyrne_analyzing-education-data-dashboard-activity-7248824857579134976-PLPO?utm_source=share&utm_medium=member_desktop)
 <img src="images/Blue Yellow scribbles Back To School Instagram Story.png?raw=true"/>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
@@ -47,7 +47,6 @@ I was hired as a Data Analyst for a stockholder of Ethereum. This stockholder st
 A Journey Through World Banking Data: Insights from SQL. Analysis, I worked with a dataset that the World Bank provides, which included extensive data on various country transactions and loans. The scope of this dataset was massive, numbering in the millions of rows, packed with information on borrower IDs and amounts due to the International Development Association (IDA)
 
 ---
----
 
 #### [Hospital Data Analyzed with SQL](https://www.linkedin.com/pulse/journey-through-world-banking-data-insights-from-sql-edwin-byrne-lnatc/?trackingId=9cjXUDJ7RIOr%2B798%2F0vZqQ%3D%3D)
 <img src="images/Hospital Data Analyzed with SQL.png?raw=true"/>
@@ -63,9 +62,11 @@ Real data from over 101,000 hospital patients.
 - [Evaluating School Success with Tableau](https://www.linkedin.com/posts/artsbyrne_analyzing-education-data-dashboard-activity-7248824857579134976-PLPO?utm_source=share&utm_medium=member_desktop)
 - [Ethereum stocks](https://github.com/users/analystedwin/projects/2)
 - [A Journey Through World Banking Data: Insights from SQL](https://www.linkedin.com/pulse/journey-through-world-banking-data-insights-from-sql-edwin-byrne-lnatc/?trackingId=9cjXUDJ7RIOr%2B798%2F0vZqQ%3D%3D)
-- [Project 5 Title](http://example.com/)
+- [Enhancing Patient Care Through Data: My Journey Analyzing Stay Lengths in Hospitals](http://example.com/)
 - [Project 6 Title](http://example.com/)
+
 ---
+
 
 
 
