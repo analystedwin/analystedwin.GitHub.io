@@ -56,6 +56,15 @@ Real data from over 101,000 hospital patients.
 
 ---
 
+
+#### [Basketball with Tableau](https://www.linkedin.com/pulse/courtside-insights-unlocking-winning-strategies-through-edwin-byrne-u5tpc/?trackingId=tMbw4av9TImCB0I4C2n7rg%3D%3D)
+<img src="images/Hospital Data Analyzed with SQL.png?raw=true"/>
+Analyzed what affections hospital stay length in MySQL.
+Created a histogram using SQL.
+Real data from over 101,000 hospital patients.
+
+---
+
 ### Category Name 2
 
 - [Analying DoorDash Marketing](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
@@ -63,7 +72,7 @@ Real data from over 101,000 hospital patients.
 - [Ethereum stocks](https://github.com/users/analystedwin/projects/2)
 - [A Journey Through World Banking Data: Insights from SQL](https://www.linkedin.com/pulse/journey-through-world-banking-data-insights-from-sql-edwin-byrne-lnatc/?trackingId=9cjXUDJ7RIOr%2B798%2F0vZqQ%3D%3D)
 - [Enhancing Patient Care Through Data: My Journey Analyzing Stay Lengths in Hospitals](http://example.com/)
-- [Project 6 Title](http://example.com/)
+- [Courtside Insights: Unlocking Winning Strategies Through Data-Driven Analysis.]([http://example.com/](https://www.linkedin.com/pulse/courtside-insights-unlocking-winning-strategies-through-edwin-byrne-u5tpc/?trackingId=tMbw4av9TImCB0I4C2n7rg%3D%3D)
 
 ---
 
