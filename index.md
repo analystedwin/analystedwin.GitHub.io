@@ -58,10 +58,10 @@ Real data from over 101,000 hospital patients.
 
 
 #### [Basketball with Tableau](https://www.linkedin.com/pulse/courtside-insights-unlocking-winning-strategies-through-edwin-byrne-u5tpc/?trackingId=tMbw4av9TImCB0I4C2n7rg%3D%3D)
-<img src="images/Hospital Data Analyzed with SQL.png?raw=true"/>
+<img src="images/Orange Toronto Tigers Basketball Game Night Sports Instagram Post (1).png?raw=true"/>
 Analyzed what affections hospital stay length in MySQL.
 Created a histogram using SQL.
-Real data from over 101,000 hospital patients.
+Analyze the league’s past to gain insights and make meaningful connections to the 2024/2025 season.
 
 ---
 
