@@ -21,11 +21,7 @@ Though I faced challenges growing up with ADHD, dyslexia, and anxiety, I’ve le
 
 In my personal life, I enjoy spending time with family and appreciating the environment around me, from the changing leaves to the colorful sky and stars above. My favorite food is pork belly, and my favorite color is red.
 
-Let’s connect and work together! Check out my projects here:
-
-My Portfolio: https://analystedwin.carrd.co/
-
-Looking forward to connecting!
+Below are the real-world projects that I thoroughly enjoyed working on and learning from.
 ---
 
 #### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
