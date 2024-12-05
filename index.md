@@ -38,7 +38,7 @@ Created an interactive Dashboard in Tableau highlighting key performance metrics
 
 #### [Ethereum](https://github.com/users/analystedwin/projects/2)
 <img src="images/freepik-export-20241004101630dAaa.png?raw=true"/>
-I was hired as a Data Analyst for a stockholder of Ethereum. This stockholder started investing 1-12-2021 to 12-30-22. Questions: Can you chart the volume? How has Ethereum price performed over time? Can you highlight some trends like lowest and highest day? Should I hold or sell now?
+A test if was hired as a Data Analyst for a stockholder of Ethereum. This stockholder started investing 1-12-2021 to 12-30-22. Questions: Can you chart the volume? How has Ethereum price performed over time? Can you highlight some trends like lowest and highest day? Should I hold or sell now?
 
 ---
 
