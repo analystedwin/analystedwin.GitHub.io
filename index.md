@@ -26,7 +26,7 @@ Below are the real-world projects that I thoroughly enjoyed working on and from 
 
 #### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
 <img src="images/Red Simple 3D Food Delivery Order Instagram Post (1).png?raw=true"/>
-Analyzed 2,000+ rows of customer behavioral marketing data in Excel using VLOOKUPS, Pivot Tables, and charts to evaluate campaign success levels..
+Analyzed 2,000+ rows of customer behavioral marketing data in Excel using VLOOKUPS, Pivot Tables, and charts to evaluate campaign success levels.
 
 ---
 
