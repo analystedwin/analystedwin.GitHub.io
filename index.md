@@ -7,7 +7,25 @@
 #### [Edwin Data Analyst](https://analystedwin.carrd.co/)
 <img src="images/KJ34FiE.JPG?raw=true"/>
 OH....IO
+Hello! I’m Edwin Byrne.
 
+I’ve taken on diverse roles throughout my career, including designing and managing sample requests, streamlining inventory processes, and ensuring product quality. My attention to detail and data visualization expertise have empowered me to drive meaningful insights and enhance operational efficiency.
+
+As an innovative and forward-thinking professional, I thrive in fast-evolving environments. My journey into data analytics is fueled by a passion for uncovering patterns and insights. Recently, I earned certifications in SQL, Tableau, and Excel, which have deepened my knowledge and broadened my skill set. I take pride in my organizational skills and meticulous nature and am always eager to learn and grow.
+
+My transition into data analytics was motivated by a supportive work environment that encouraged teamwork and collaboration. I value these qualities and am committed to making processes easier and more efficient for those around me. Whether working independently or as part of a team, I approach every task with the precision of a detective.
+
+I'm eager to demonstrate my skills as a Data Specialist, helping organizations clean errors, filter data, and transform information into actionable insights.
+
+Though I faced challenges growing up with ADHD, dyslexia, and anxiety, I’ve learned how to navigate them and use my strengths to succeed.
+
+In my personal life, I enjoy spending time with family and appreciating the environment around me, from the changing leaves to the colorful sky and stars above. My favorite food is pork belly, and my favorite color is red.
+
+Let’s connect and work together! Check out my projects here:
+
+My Portfolio: https://analystedwin.carrd.co/
+
+Looking forward to connecting!
 ---
 
 #### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
