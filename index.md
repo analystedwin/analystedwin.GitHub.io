@@ -6,7 +6,7 @@
 
 #### [Edwin Data Analyst](https://analystedwin.carrd.co/)
 <img src="images/KJ34FiE.JPG?raw=true"/>
-OH....IO
+
 Hello! I’m Edwin Byrne.
 
 I’ve taken on diverse roles throughout my career, including designing and managing sample requests, streamlining inventory processes, and ensuring product quality. My attention to detail and data visualization expertise have empowered me to drive meaningful insights and enhance operational efficiency.
