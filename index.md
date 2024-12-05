@@ -64,9 +64,9 @@ Designed a Custom Tableau Dashboard to explain the 2021 NBA season patterns & tr
 
 - [Analying DoorDash Marketing](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
 - [Evaluating School Success with Tableau](https://www.linkedin.com/posts/artsbyrne_analyzing-education-data-dashboard-activity-7248824857579134976-PLPO?utm_source=share&utm_medium=member_desktop)
-- [Ethereum stocks](https://github.com/users/analystedwin/projects/2)
+- [Ethereum stocks](https://www.linkedin.com/pulse/cracking-code-shocking-lessons-from-2-years-worth-blockchain-byrne-rqcbc/?trackingId=V3DTMPCIoGBGroFcZSPX0A%3D%3D))
 - [A Journey Through World Banking Data: Insights from SQL](https://www.linkedin.com/pulse/journey-through-world-banking-data-insights-from-sql-edwin-byrne-lnatc/?trackingId=9cjXUDJ7RIOr%2B798%2F0vZqQ%3D%3D)
-- [Enhancing Patient Care Through Data: My Journey Analyzing Stay Lengths in Hospitals](http://example.com/)
+- [Enhancing Patient Care Through Data: My Journey Analyzing Stay Lengths in Hospitals](https://www.linkedin.com/pulse/enhancing-patient-care-through-data-my-journey-analyzing-edwin-byrne-gyl8c/?trackingId=48jVM8mcSbK%2BnlIEEjP3dg%3D%3D))
 - [Courtside Insights: Unlocking Winning Strategies Through Data-Driven Analysis](https://www.linkedin.com/pulse/courtside-insights-unlocking-winning-strategies-through-edwin-byrne-u5tpc/?trackingId=tMbw4av9TImCB0I4C2n7rg%3D%3D)
 
 ---
