@@ -26,27 +26,13 @@ Below are the real-world projects that I thoroughly enjoyed working on and learn
 
 #### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
 <img src="images/Red Simple 3D Food Delivery Order Instagram Post (1).png?raw=true"/>
-
-Main Talking Points: Identifying the core messages that resonate with the audience and highlight key findings.
-
-Data Visualization: Utilizing charts and graphs to make complex data more accessible and engaging.
-
-Connecting Data to Business Value: Demonstrating how insights derived from the data can drive strategic decisions and improve outcomes.
-
-Storytelling with Data: Crafting a narrative that ties data points together, making it relatable and actionable.
-
-Best Practices for Presentation: Tips on layout, design, and delivery to ensure clarity and impact.
-
-By integrating these elements, the presentation not only informs but also empowers stakeholders to make data-driven decisions that enhance business performance.
+Identify the core messages that resonate with the audience and emphasize key findings to ensure clarity and focus. Use charts and graphs to simplify complex data, making it accessible, engaging, and easier to interpret. Highlight how data insights can guide strategic decisions and drive positive business outcomes. Weave a narrative that connects data points, making the information relatable, actionable, and compelling. Offer guidance on layout, design, and delivery to ensure the message is clear, concise, and impactful. By integrating these elements, the presentation not only informs but empowers stakeholders to make data-driven decisions that foster business success and growth.
 
 ---
 
 #### [Education Project](https://www.linkedin.com/posts/artsbyrne_analyzing-education-data-dashboard-activity-7248824857579134976-PLPO?utm_source=share&utm_medium=member_desktop)
 <img src="images/Blue Yellow scribbles Back To School Instagram Story.png?raw=true"/>
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+Created an interactive Dashboard in Tableau highlighting key performance metrics for 1,800+ of Massachusetts school systems, allowing an at-a-glance understanding of the entire program.
 
 ---
 
@@ -58,24 +44,19 @@ I was hired as a Data Analyst for a stockholder of Ethereum. This stockholder st
 
 #### [Banking in SQL](https://www.linkedin.com/pulse/journey-through-world-banking-data-insights-from-sql-edwin-byrne-lnatc/?trackingId=9cjXUDJ7RIOr%2B798%2F0vZqQ%3D%3D)
 <img src="images/Banking Analyist in SQL.png?raw=true"/>
-A Journey Through World Banking Data: Insights from SQL. Analysis, I worked with a dataset that the World Bank provides, which included extensive data on various country transactions and loans. The scope of this dataset was massive, numbering in the millions of rows, packed with information on borrower IDs and amounts due to the International Development Association (IDA)
+Conducted comprehensive financial analysis for the World Bank & identified the financial & accounting landscape globally. 
 
 ---
 
 #### [Hospital Data Analyzed with SQL](https://www.linkedin.com/pulse/journey-through-world-banking-data-insights-from-sql-edwin-byrne-lnatc/?trackingId=9cjXUDJ7RIOr%2B798%2F0vZqQ%3D%3D)
 <img src="images/Hospital Data Analyzed with SQL.png?raw=true"/>
-Analyzed what affections hospital stay length in MySQL.
-Created a histogram using SQL.
-Real data from over 101,000 hospital patients.
+Explored 100,000+ patient healthcare data sets, assessing key factors such as hospital equality & duration of hospital stay. 
 
 ---
 
-
 #### [Basketball with Tableau](https://www.linkedin.com/pulse/courtside-insights-unlocking-winning-strategies-through-edwin-byrne-u5tpc/?trackingId=tMbw4av9TImCB0I4C2n7rg%3D%3D)
 <img src="images/Orange Toronto Tigers Basketball Game Night Sports Instagram Post (1).png?raw=true"/>
-Analyzed what affections hospital stay length in MySQL.
-Created a histogram using SQL.
-Analyze the league’s past to gain insights and make meaningful connections to the 2024/2025 season.
+Designed a Custom Tableau Dashboard to explain the 2021 NBA season patterns & trends with KPIs, bar charts, scatter plots, heatmaps, and more. 
 
 ---
 
