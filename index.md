@@ -21,7 +21,7 @@ Though I faced challenges growing up with ADHD, dyslexia, and anxiety, I’ve le
 
 In my personal life, I enjoy spending time with family and appreciating the environment around me, from the changing leaves to the colorful sky and stars above. My favorite food is pork belly, and my favorite color is red.
 
-<font size="16">**Below are the real-world projects that I thoroughly enjoyed working on and from which I gained valuable insights.** text</font>
+<p style="font-size: 16px;"><strong>Below are the real-world projects that I thoroughly enjoyed working on and from which I gained valuable insights.</strong></p>
 
 ---
 
