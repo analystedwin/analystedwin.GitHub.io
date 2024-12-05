@@ -26,7 +26,7 @@ Below are the real-world projects that I thoroughly enjoyed working on and from 
 
 #### [DoorDash](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
 <img src="images/Red Simple 3D Food Delivery Order Instagram Post (1).png?raw=true"/>
-Identify the core messages that resonate with the audience and emphasize key findings to ensure clarity and focus. Use charts and graphs to simplify complex data, making it accessible, engaging, and easier to interpret. Highlight how data insights can guide strategic decisions and drive positive business outcomes. Weave a narrative that connects data points, making the information relatable, actionable, and compelling. Offer guidance on layout, design, and delivery to ensure the message is clear, concise, and impactful. By integrating these elements, the presentation not only informs but empowers stakeholders to make data-driven decisions that foster business success and growth.
+Analyzed 2,000+ rows of customer behavioral marketing data in Excel using VLOOKUPS, Pivot Tables, and charts to evaluate campaign success levels..
 
 ---
 
