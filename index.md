@@ -71,7 +71,8 @@ Designed a Custom Tableau Dashboard to explain the 2021 NBA season patterns & tr
 - [Courtside Insights: Unlocking Winning Strategies Through Data-Driven Analysis](https://www.linkedin.com/pulse/courtside-insights-unlocking-winning-strategies-through-edwin-byrne-u5tpc/?trackingId=tMbw4av9TImCB0I4C2n7rg%3D%3D)
 
 ---
-
+### Resume
+[merging Data Analyst | Insight Storyteller | AI & Visualization Enthusiast](https://drive.google.com/file/d/1Qs9uUY7v6267HgbYIfeXxH_snYD3qQr7/view?usp=sharing)
 
 
 
