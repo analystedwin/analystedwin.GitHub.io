@@ -72,7 +72,7 @@ Designed a Custom Tableau Dashboard to explain the 2021 NBA season patterns & tr
 
 ---
 ### Resume
-[merging Data Analyst | Insight Storyteller | AI & Visualization Enthusiast](https://drive.google.com/file/d/1Qs9uUY7v6267HgbYIfeXxH_snYD3qQr7/view?usp=sharing)
+[Emerging Data Analyst | Insight Storyteller | AI & Visualization Enthusiast](https://drive.google.com/file/d/1Qs9uUY7v6267HgbYIfeXxH_snYD3qQr7/view?usp=sharing)
 
 
 
