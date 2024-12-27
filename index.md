@@ -62,7 +62,7 @@ Designed a Custom Tableau Dashboard to explain the 2021 NBA season patterns & tr
 ---
 
 #### [Unlocking Hidden Secrets with AI and Python]([https://www.linkedin.com/pulse/courtside-insights-unlocking-winning-strategies-through-edwin-byrne-u5tpc/?trackingId=tMbw4av9TImCB0I4C2n7rg%3D%3D](https://www.linkedin.com/pulse/future-ore-analysis-through-code-mining-edwin-byrne-7tqkc/?trackingId=TykYaEeURvaAk%20Likqndsw))
-<img src="images/Orange Toronto Tigers Basketball Game Night Sports Instagram Post (1).png?raw=true"/>
+<img src="images/Fundamentals of Fossil Fuels Science Presentation in Brown Beige Scrapbook Style.jpg?raw=true"/>
 Perform statistical analyses for each column, including calculations for the average, median, minimum, and maximum values.
 Investigate June 1, 2017, focusing on changes in % Ion Concentration. Generate a line plot with Seaborn to visualize the changes and compare air flow levels to uncover insights.
 
