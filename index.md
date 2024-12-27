@@ -61,6 +61,14 @@ Designed a Custom Tableau Dashboard to explain the 2021 NBA season patterns & tr
 
 ---
 
+#### [Unlocking Hidden Secrets with AI and Python]([https://www.linkedin.com/pulse/courtside-insights-unlocking-winning-strategies-through-edwin-byrne-u5tpc/?trackingId=tMbw4av9TImCB0I4C2n7rg%3D%3D](https://www.linkedin.com/pulse/future-ore-analysis-through-code-mining-edwin-byrne-7tqkc/?trackingId=TykYaEeURvaAk%20Likqndsw))
+<img src="images/Orange Toronto Tigers Basketball Game Night Sports Instagram Post (1).png?raw=true"/>
+Perform statistical analyses for each column, including calculations for the average, median, minimum, and maximum values.
+Investigate June 1, 2017, focusing on changes in % Ion Concentration. Generate a line plot with Seaborn to visualize the changes and compare air flow levels to uncover insights.
+
+
+---
+
 ### Portfolio
 
 - [Analying DoorDash Marketing](https://www.linkedin.com/pulse/whats-dinner-how-do-doordash-sales-demographics-look-edwin-byrne-ye4ic/?trackingId=4u8paoowSq6XqIdQFDrRxQ%3D%3D)
@@ -69,8 +77,8 @@ Designed a Custom Tableau Dashboard to explain the 2021 NBA season patterns & tr
 - [A Journey Through World Banking Data: Insights from SQL](https://www.linkedin.com/pulse/journey-through-world-banking-data-insights-from-sql-edwin-byrne-lnatc/?trackingId=9cjXUDJ7RIOr%2B798%2F0vZqQ%3D%3D)
 - [Enhancing Patient Care Through Data: My Journey Analyzing Stay Lengths in Hospitals](https://www.linkedin.com/pulse/enhancing-patient-care-through-data-my-journey-analyzing-edwin-byrne-gyl8c/?trackingId=48jVM8mcSbK%2BnlIEEjP3dg%3D%3D))
 - [Courtside Insights: Unlocking Winning Strategies Through Data-Driven Analysis](https://www.linkedin.com/pulse/courtside-insights-unlocking-winning-strategies-through-edwin-byrne-u5tpc/?trackingId=tMbw4av9TImCB0I4C2n7rg%3D%3D)
-
----
+- [The Future of Ore Analysis Through Code Mining](https://www.linkedin.com/pulse/future-ore-analysis-through-code-mining-edwin-byrne-7tqkc/?trackingId=%2BHFN6ZUZQbKnsRkicHiI%2BA%3D%3D))
+  
 ### Resume
 [Emerging Data Analyst | Insight Storyteller | AI & Visualization Enthusiast](https://drive.google.com/file/d/1m4m_dLSJp2Ow3xjIvJbn9AWZO909Ut4L/view?usp=sharing)
 
